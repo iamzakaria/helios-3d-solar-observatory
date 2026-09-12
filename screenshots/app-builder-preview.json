@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Helios",
+      "hasCanvas": true,
+      "bodyTextLen": 432,
+      "bodyTextHash": "b5f614f8062f8cf751d2c0c7e9bd141ce2d48a833a4172e66d68e031665b8e1b",
+      "bodyTextPrefix": "Helios — solar observatory SUN MERCURY VENUS EARTH MOON MARS JUP",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Helios",
+      "hasCanvas": true,
+      "bodyTextLen": 232,
+      "bodyTextHash": "5e7cd788e8602fca18c7bb4502e4c3901965031466f5885ba43a913e31a75f3a",
+      "bodyTextPrefix": "Helios — solar observatory EARTH MOON Helios Sun Mercury Venus E",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

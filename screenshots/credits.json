@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Helios",
+      "hasCanvas": true,
+      "bodyTextLen": 476,
+      "bodyTextHash": "8ac5a2b4fe687965c5d1bd03981da6fbcac176baf303500aa1b33f55bec12807",
+      "bodyTextPrefix": "Helios — solar observatory SUN MERCURY VENUS EARTH MOON MARS JUP",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/credits.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Helios",
+      "hasCanvas": true,
+      "bodyTextLen": 276,
+      "bodyTextHash": "e5936de91ed1aef2c16f946489f9bc87640cb255a3251117a4925d0370931805",
+      "bodyTextPrefix": "Helios — solar observatory EARTH MOON Helios Made by Zakaria Sha",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/credits-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/credits.json"
+}
